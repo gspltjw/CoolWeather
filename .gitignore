@@ -17,8 +17,8 @@ local.properties
 
 # eclipse
 tmp/
-.classpath/
-.project/
+.classpath
+.project
 .settings/
 *.keystore
 *.log
